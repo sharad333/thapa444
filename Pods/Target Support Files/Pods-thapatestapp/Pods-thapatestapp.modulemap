@@ -1,0 +1,6 @@
+framework module Pods_thapatestapp {
+  umbrella header "Pods-thapatestapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
