@@ -57,7 +57,7 @@
 		847143C620F4B96800EBE868 /* thapatestappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = thapatestappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		847143CA20F4B96800EBE868 /* thapatestappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thapatestappUITests.swift; sourceTree = "<group>"; };
 		847143CC20F4B96800EBE868 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		847143D820F4BC0A00EBE868 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		847143D920F4EDFD00EBE868 /* Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Bridging-Header.h"; sourceTree = "<group>"; };
 		C5E74155CD5B9A4057FCB2B6 /* Pods-thapatestappUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestappUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestappUITests/Pods-thapatestappUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		D43BDE58F56E4E0D6FBEB702 /* Pods-thapatestappTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestappTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestappTests/Pods-thapatestappTests.release.xcconfig"; sourceTree = "<group>"; };
 		E008B94DCCBDDCF4492A5474 /* Pods-thapatestapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestapp.release.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestapp/Pods-thapatestapp.release.xcconfig"; sourceTree = "<group>"; };
@@ -130,8 +130,8 @@
 		847143A620F4B96400EBE868 /* thapatestapp */ = {
 			isa = PBXGroup;
 			children = (
-				847143D820F4BC0A00EBE868 /* Header.h */,
 				847143A720F4B96400EBE868 /* AppDelegate.swift */,
+				847143D920F4EDFD00EBE868 /* Bridging-Header.h */,
 				847143A920F4B96400EBE868 /* ViewController.swift */,
 				847143AB20F4B96500EBE868 /* Main.storyboard */,
 				847143B120F4B96600EBE868 /* Assets.xcassets */,
@@ -653,6 +653,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "622934f6-8c19-41d2-bd3c-9897efeab929";
 				PROVISIONING_PROFILE_SPECIFIER = gomedijuly18;
+				SWIFT_OBJC_BRIDGING_HEADER = "thapatestapp/Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -674,6 +675,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "622934f6-8c19-41d2-bd3c-9897efeab929";
 				PROVISIONING_PROFILE_SPECIFIER = gomedijuly18;
+				SWIFT_OBJC_BRIDGING_HEADER = "thapatestapp/Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
