@@ -8,7 +8,7 @@ target 'thapatestapp' do
     pod 'Alamofire', '~> 4.0'
     pod 'AlamofireImage'
     pod ‘MBProgressHUD’
-
+    pod 'SDWebImage', '~>4.0'
   # Pods for thapatestapp
 
   target 'thapatestappTests' do

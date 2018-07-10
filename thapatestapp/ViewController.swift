@@ -8,6 +8,7 @@
 
 import UIKit
 import Alamofire
+import SDWebImage
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
