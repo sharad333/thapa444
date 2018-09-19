@@ -40,10 +40,14 @@
 /* Begin PBXFileReference section */
 		0E043646214DED46A4F61EDC /* Pods_thapatestappTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_thapatestappTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B8270C2C8BB54EAE337F692 /* Pods-thapatestappUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestappUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestappUITests/Pods-thapatestappUITests.release.xcconfig"; sourceTree = "<group>"; };
+		26DBA40D8A17956CE112C9F4 /* Pods-thapatestapp.debugpaid.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestapp.debugpaid.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestapp/Pods-thapatestapp.debugpaid.xcconfig"; sourceTree = "<group>"; };
+		28161C65418828B89B362633 /* Pods-thapatestappUITests.releasepaid.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestappUITests.releasepaid.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestappUITests/Pods-thapatestappUITests.releasepaid.xcconfig"; sourceTree = "<group>"; };
 		49EA1E67831781BA70D38707 /* Pods-thapatestapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestapp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestapp/Pods-thapatestapp.debug.xcconfig"; sourceTree = "<group>"; };
+		4BD7F2AEF978D690855EFA77 /* Pods-thapatestappUITests.debugpaid.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestappUITests.debugpaid.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestappUITests/Pods-thapatestappUITests.debugpaid.xcconfig"; sourceTree = "<group>"; };
 		522712F5C004A2AB74B9DF17 /* Pods-thapatestappTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestappTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestappTests/Pods-thapatestappTests.debug.xcconfig"; sourceTree = "<group>"; };
 		674A4DAA9F6C689CC790030B /* Pods_thapatestappUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_thapatestappUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		841F7EB520F76B77005C3EB3 /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
+		71BB98D7F6167180D360D058 /* Pods-thapatestappTests.debugpaid.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestappTests.debugpaid.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestappTests/Pods-thapatestappTests.debugpaid.xcconfig"; sourceTree = "<group>"; };
+		73C63C00B533FD22F16F1EF0 /* Pods-thapatestapp.releasepaid.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestapp.releasepaid.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestapp/Pods-thapatestapp.releasepaid.xcconfig"; sourceTree = "<group>"; };
 		847143A420F4B96400EBE868 /* thapatestapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = thapatestapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		847143A720F4B96400EBE868 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		847143A920F4B96400EBE868 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +63,7 @@
 		847143CA20F4B96800EBE868 /* thapatestappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thapatestappUITests.swift; sourceTree = "<group>"; };
 		847143CC20F4B96800EBE868 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		847143D920F4EDFD00EBE868 /* Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Bridging-Header.h"; sourceTree = "<group>"; };
+		888CF8924AD460E2DE11E79B /* Pods-thapatestappTests.releasepaid.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestappTests.releasepaid.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestappTests/Pods-thapatestappTests.releasepaid.xcconfig"; sourceTree = "<group>"; };
 		C5E74155CD5B9A4057FCB2B6 /* Pods-thapatestappUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestappUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestappUITests/Pods-thapatestappUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		D43BDE58F56E4E0D6FBEB702 /* Pods-thapatestappTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestappTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestappTests/Pods-thapatestappTests.release.xcconfig"; sourceTree = "<group>"; };
 		E008B94DCCBDDCF4492A5474 /* Pods-thapatestapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-thapatestapp.release.xcconfig"; path = "Pods/Target Support Files/Pods-thapatestapp/Pods-thapatestapp.release.xcconfig"; sourceTree = "<group>"; };
@@ -102,6 +107,12 @@
 				D43BDE58F56E4E0D6FBEB702 /* Pods-thapatestappTests.release.xcconfig */,
 				C5E74155CD5B9A4057FCB2B6 /* Pods-thapatestappUITests.debug.xcconfig */,
 				1B8270C2C8BB54EAE337F692 /* Pods-thapatestappUITests.release.xcconfig */,
+				26DBA40D8A17956CE112C9F4 /* Pods-thapatestapp.debugpaid.xcconfig */,
+				73C63C00B533FD22F16F1EF0 /* Pods-thapatestapp.releasepaid.xcconfig */,
+				71BB98D7F6167180D360D058 /* Pods-thapatestappTests.debugpaid.xcconfig */,
+				888CF8924AD460E2DE11E79B /* Pods-thapatestappTests.releasepaid.xcconfig */,
+				4BD7F2AEF978D690855EFA77 /* Pods-thapatestappUITests.debugpaid.xcconfig */,
+				28161C65418828B89B362633 /* Pods-thapatestappUITests.releasepaid.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -131,7 +142,6 @@
 		847143A620F4B96400EBE868 /* thapatestapp */ = {
 			isa = PBXGroup;
 			children = (
-				841F7EB520F76B77005C3EB3 /* Config.xcconfig */,
 				847143A720F4B96400EBE868 /* AppDelegate.swift */,
 				847143D920F4EDFD00EBE868 /* Bridging-Header.h */,
 				847143A920F4B96400EBE868 /* ViewController.swift */,
@@ -184,7 +194,6 @@
 				847143A120F4B96400EBE868 /* Frameworks */,
 				847143A220F4B96400EBE868 /* Resources */,
 				82D54DDB6E0B3170AB7DB223 /* [CP] Embed Pods Frameworks */,
-				9B120B1EBB5F6DD1A4B6A180 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -203,8 +212,6 @@
 				847143B720F4B96700EBE868 /* Sources */,
 				847143B820F4B96700EBE868 /* Frameworks */,
 				847143B920F4B96700EBE868 /* Resources */,
-				1DCAD4AB8E38AD14E7E5C516 /* [CP] Embed Pods Frameworks */,
-				3576A7AD19BC8CB54DBCC8A4 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -224,8 +231,6 @@
 				847143C220F4B96800EBE868 /* Sources */,
 				847143C320F4B96800EBE868 /* Frameworks */,
 				847143C420F4B96800EBE868 /* Resources */,
-				BA8BF206944DD2171269FD69 /* [CP] Embed Pods Frameworks */,
-				CC91E2CE2EF14554191B1081 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -311,36 +316,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		1DCAD4AB8E38AD14E7E5C516 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-thapatestappTests/Pods-thapatestappTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		3576A7AD19BC8CB54DBCC8A4 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-thapatestappTests/Pods-thapatestappTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		370268005CD23A6755572DA9 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -365,7 +340,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-thapatestapp/Pods-thapatestapp-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-thapatestapp/Pods-thapatestapp-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
 				"${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework",
@@ -380,22 +355,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-thapatestapp/Pods-thapatestapp-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		9B120B1EBB5F6DD1A4B6A180 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-thapatestapp/Pods-thapatestapp-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-thapatestapp/Pods-thapatestapp-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		B2D16A4911B9C5DFB5D902C6 /* [CP] Check Pods Manifest.lock */ = {
@@ -416,21 +376,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		BA8BF206944DD2171269FD69 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-thapatestappUITests/Pods-thapatestappUITests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		C06C93303E0C2EF4568FEC2C /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -447,21 +392,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		CC91E2CE2EF14554191B1081 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-thapatestappUITests/Pods-thapatestappUITests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -583,7 +513,7 @@
 		};
 		843C35EB20F75CE300A734C3 /* ReleasePaid */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E008B94DCCBDDCF4492A5474 /* Pods-thapatestapp.release.xcconfig */;
+			baseConfigurationReference = 73C63C00B533FD22F16F1EF0 /* Pods-thapatestapp.releasepaid.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: GOMEDII TECHNOLOGIES PRIVATE LIMITED (T7NZ937HQM)";
@@ -606,7 +536,7 @@
 		};
 		843C35EC20F75CE300A734C3 /* ReleasePaid */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D43BDE58F56E4E0D6FBEB702 /* Pods-thapatestappTests.release.xcconfig */;
+			baseConfigurationReference = 888CF8924AD460E2DE11E79B /* Pods-thapatestappTests.releasepaid.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -624,7 +554,7 @@
 		};
 		843C35ED20F75CE300A734C3 /* ReleasePaid */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1B8270C2C8BB54EAE337F692 /* Pods-thapatestappUITests.release.xcconfig */;
+			baseConfigurationReference = 28161C65418828B89B362633 /* Pods-thapatestappUITests.releasepaid.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -701,7 +631,7 @@
 		};
 		843C35EF20F75D0B00A734C3 /* DebugPaid */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 49EA1E67831781BA70D38707 /* Pods-thapatestapp.debug.xcconfig */;
+			baseConfigurationReference = 26DBA40D8A17956CE112C9F4 /* Pods-thapatestapp.debugpaid.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: GOMEDII TECHNOLOGIES PRIVATE LIMITED (T7NZ937HQM)";
@@ -724,7 +654,7 @@
 		};
 		843C35F020F75D0B00A734C3 /* DebugPaid */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 522712F5C004A2AB74B9DF17 /* Pods-thapatestappTests.debug.xcconfig */;
+			baseConfigurationReference = 71BB98D7F6167180D360D058 /* Pods-thapatestappTests.debugpaid.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -742,7 +672,7 @@
 		};
 		843C35F120F75D0B00A734C3 /* DebugPaid */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C5E74155CD5B9A4057FCB2B6 /* Pods-thapatestappUITests.debug.xcconfig */;
+			baseConfigurationReference = 4BD7F2AEF978D690855EFA77 /* Pods-thapatestappUITests.debugpaid.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
